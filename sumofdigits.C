@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c;
+int a,b,c,d;
 printf("enter two numbers");
 scanf("%d%d",&a,&b);
-c=a+b;
+d=a+b+c;
   {
-printf("%d",c);
+printf("%d",d);
 }
 }
